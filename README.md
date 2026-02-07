@@ -58,6 +58,7 @@ Summarize findings into a structured project report and present actionable recom
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/2236804HarshCECCSEC/customer-trends-data-analysis-SQL-Python-PowerBI.git
+
 cd customer-trends-data-analysis-SQL-Python-PowerBI
 
 2️⃣ Open the Jupyter Notebook
