@@ -99,7 +99,12 @@ Revenue and trends
 
 Connect Power BI to the SQL database
 
-Open: customer_behavior_dashboard.pbix
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93156ffc-f3f6-41cf-998d-e26f0adf2cf5" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2391f6c4-098e-4b70-ac60-6f880aedb447" />
+
+
 
 Build and explore interactive dashboards using filters, KPIs, and visuals
 
